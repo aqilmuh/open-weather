@@ -1,0 +1,1 @@
+Practice project with requests and API
