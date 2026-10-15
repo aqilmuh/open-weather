@@ -1,5 +1,7 @@
 # Weather App
 
+> Project link: [https://roadmap.sh/projects/weather-api-wrapper-service]
+
 A simple command-line weather application built with Python. This project was created as a hands-on exercise in working with HTTP requests, environment variables, and external APIs.
 
 The application asks for a city name, retrieves its current weather data using the [OpenWeatherMap Current Weather API](https://openweathermap.org/current), and displays useful weather information directly in the terminal.
